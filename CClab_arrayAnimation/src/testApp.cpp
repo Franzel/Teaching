@@ -50,7 +50,7 @@ void testApp::draw(){
             
             ofPushMatrix();
             if (x%2){
-                ofSetColor(100+ 155*oscMapped,100+ 50*oscMapped,20+ 50*oscMapped);
+                ofSetColor(100+ 155*oscMapped,100+ 50*oscMapped,20+ 50*oscMapped); //change color every two columns
             }
             
             else {
