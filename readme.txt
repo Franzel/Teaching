@@ -1,1 +1,0 @@
-This is where all the code used for teaching will reside.
